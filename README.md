@@ -16,7 +16,7 @@ MongoDB
 Installation
 Clone the repository to your local machine:
 
-// git clone https://github.com/your-username/tracke.git
+ https://github.com/akashu0/Notetracker-react-web-app.git
 Change into the project directory:
 
 Install the required dependencies:
@@ -44,7 +44,5 @@ User Management: Users can create an account, log in, and log out.
 Admin Management: Admin users have access to manage other users and their notes.
 Note Management: Users can create, view, edit, and delete their notes.
 
-Contact
-If you have any questions or feedback, please contact us at support@tracke.com.
 
 Happy note-taking with TRACKE!
